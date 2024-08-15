@@ -1,0 +1,1 @@
+//ReplaceAsset($fix, "fs/opening.bnr", 6496)
