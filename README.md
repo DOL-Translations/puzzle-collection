@@ -1,6 +1,6 @@
 # Nintendo Puzzle Collection
 - File: `Nintendo Puzzle Collection [J].iso`
-- Hash: `todo`
+- Hash: `4B5056C7ED26877CD8B5E46E567C520EB79AD27D`
 
 (Game Overview)
 
