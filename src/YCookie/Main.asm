@@ -1,8 +1,8 @@
 // GameCube "Yoshi's Cookie" Japanese To English Translation
 
 endian msb // GameCube PPC requires Big-Endian Encoding (Most Significant Bit)
-output "", create
-origin $000000; insert "" // Include Japanese ycookie.rel
+output "/fs/ycookie-eng.rel", create
+origin $000000; insert "/fs/ycookie.rel" // Include Japanese ycookie.rel
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
