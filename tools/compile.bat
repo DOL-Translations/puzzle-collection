@@ -25,7 +25,17 @@ if %ISOSize% neq %ISOTargetSize% (
 
 echo [INFO] Compiling patches - Please wait..
 
-bass\\win\\bass.exe ..\\src\\Main.asm
+//todo: extract .rel
+//decompress .rel
+
+bass\\win\\bass.exe ..\\src\\Menu\\Main.asm
+bass\\win\\bass.exe ..\\src\\DrMario\\Main.asm
+bass\\win\\bass.exe ..\\src\\YCookie\\Main.asm
+
+//todo: compress .rel
+//repack .rel
+
+bass\\win\\bass.exe ..\\src\\Main\\Main.asm
 
 echo [INFO] Patches compiled
 echo ---------- 
