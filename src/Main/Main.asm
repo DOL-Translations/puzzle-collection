@@ -1,8 +1,9 @@
 // GameCube "Nintendo Puzzle Collection" Japanese To English Translation
 
 endian msb // GameCube PPC requires Big-Endian Encoding (Most Significant Bit)
-output "../output/Nintendo Puzzle Collection [U].iso", create
-origin $000000; insert "../input/Nintendo Puzzle Collection [J].iso" // Include Japanese Puzzle Collection ISO
+
+output "../../output/Nintendo Puzzle Collection [U].iso", create
+origin $000000; insert "../../input/Nintendo Puzzle Collection [J].iso" // Include Japanese Puzzle Collection ISO
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
