@@ -1,8 +1,8 @@
 // GameCube "Dr. Mario" Japanese To English Translation
 
 endian msb // GameCube PPC requires Big-Endian Encoding (Most Significant Bit)
-output "", create
-origin $000000; insert "" // Include Japanese dr_mario.rel
+output "/fs/dr_mario-eng.rel", create
+origin $000000; insert "/fs/dr_mario.rel" // Include Japanese dr_mario.rel
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars

@@ -1,8 +1,8 @@
 // GameCube "Nintendo Puzzle Collection (Menu)" Japanese To English Translation
 
 endian msb // GameCube PPC requires Big-Endian Encoding (Most Significant Bit)
-output "", create
-origin $000000; insert "" // Include Japanese menu_relsamp.rel
+output "/fs/menu_relsamp-eng.rel", create
+origin $000000; insert "/fs/menu_relsamp.rel" // Include Japanese menu_relsamp.rel
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
