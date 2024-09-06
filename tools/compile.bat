@@ -36,9 +36,15 @@ bass\\win\\bass.exe ..\\src\\Menu\\Main.asm
 bass\\win\\bass.exe ..\\src\\DrMario\\Main.asm
 bass\\win\\bass.exe ..\\src\\YCookie\\Main.asm
  
-szp.exe ../src/Menu/fs/menu_relsamp-eng.rel ../src/Menu/fs/menu_relsamp-eng.szp
-szp.exe ../src/DrMario/fs/dr_mario-eng.rel ../src/DrMario/fs/dr_mario-eng.szp
-szp.exe ../src/YCookie/fs/ycookie-eng.rel ../src/YCookie/fs/ycookie-eng.szp
+szp.exe ../src/Menu/fs/menu_relsamp-eng.rel
+ren .szp "menu_relsamp-eng.szp"
+move menu_relsamp-eng.szp "../src/Menu/fs/"
+szp.exe ../src/DrMario/fs/dr_mario-eng.rel
+ren .szp "dr_mario-eng.szp"
+move dr_mario-eng.szp "../src/DrMario/fs/"
+szp.exe ../src/YCookie/fs/ycookie-eng.rel
+ren .szp "ycookie-eng.szp"
+move ycookie-eng.szp "../src/YCookie/fs/"
 
 bass\\win\\bass.exe ..\\src\\Main\\Main.asm
 
