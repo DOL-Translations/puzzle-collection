@@ -105,4 +105,4 @@ origin $45B; db $01
 include "Banner.asm"
 include "Control.asm"
 include "System.asm"
-//include "Relocatable.asm"
+//include "Relocatable.asm" //temporarily disabled. will have to manually add .rels with pyisotools
