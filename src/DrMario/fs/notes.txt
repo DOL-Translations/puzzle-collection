@@ -1,1 +1,2 @@
-6.bin -> Story/Title (Press any Button)
+ 6.bin -> Story/Title (Press any Button)
+19.bin -> Character   (Octo)
