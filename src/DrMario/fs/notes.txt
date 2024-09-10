@@ -31,3 +31,4 @@
 36.bin		character/virus_r	(Red Virus)		[N/A]
 37.bin		character/virus_y	(Yellow Virus)		[N/A]
 38.bin		character/smog		(Smog Anim)		[N/A]
+45.bin		menu/p4			(Octo)
