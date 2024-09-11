@@ -169,7 +169,7 @@ Text("That's it.~nNow get going!~w2~z")
 Text($00065C04, "See you later!~nBye-bye!~w2~z")
 
 //STAFF CREDITS
-Text($00324430, "~n~n~n~n~n~n~n~n~n~n~n~n~n~n~n~n~1Dr. Mario Creative Staff~n~n~2Original Concept~6~nGunpei Yokoi~nTakahiro Harada~n~n~3Game Design~6~nHitoshi Yamagami~nKazushi Maeda~nYohei Fujigawa~n~n~4Programmers~6~nYasunori Kobayashi~nKazunori Hasegawa~n~n~2CG Designers~6~nYohei Fujigawa~nAkio Saito~nShinichi Takehiro~nTakehiro Ishikawa~nNozomi Kawai~nTomoki Oda~nToshiyuki Matsuda~nYukio Tanaka~nToyohide Ando~nTaichi Sasaki~nTakatoshi Anbe~nTomoaki Yamaguchi~n~n~3Art Director~6~nToyo Ashida~n~n~4Original Character Art~6~nYukio Ebisawa~nToyo Ashida~nHiroshi Takeuchi~nAyako Kurada~nHatsue Koizumi~nMariko Oka~n~n~2Character Animation~6~nKiyomi Ishiwata~nMami Yamaguchi~nHatsue Koizumi~nHideki Nagamachi~nShingo Kuragari~nMasahito Onoda~n~n~3Original Background Art~6~nToyo Ashida~n~n~4Background Colorist~6~nYuki Enatsu~n~n~2Package Art~6~nSachiko Nakamichi~n~n~3Original Sound Composer~6~nHirokazu Tanaka~n~n~4Sound Composer~6~nManabu Fujiki~n~n~2Music Composer~6~nManabu Fujiki~nSeiichi Tokunaga~n~n~3Debug Staff~6~nSuper Mario Club~nHifumi Miyazaki~nKayo Komaki~nFumiaki Shimada~nSatomi Hasuike~nTomoharu Hizakae~nKanako Fujisawa~nToshiaki Suzuki~nSatoru Uno~nKoichi Torii~nTomoko Yuasa~nYasunori Shibayama~nTakahiro Nakamura~nKotaro Haneda~nShohei Zenjo~nYoshihito Tsuji~nTakahiro Onishi~nTatsuro Sawada~nTakehiko Asaka~nTomokazu Suganuma~nTakuya Inoue~n~n~4Special Thanks~6~nTakehiro Izushi~nMasao Yamamoto~nMinoru Arakawa~nManabu "Mike" Fukuda~nSakae Yamazaki~nFontworks Japan~nNintendo R&D 1~nNewcom Co., Ltd.~n~n~2Voice Acting~6~nCharles Martinet~n~n~3Localization~6~nTim O'Leary~nBill Trinen~n~n~4Localization Management~6~nJeff Miller~nLeslie Swan~n~n~2Testing and Debug~6~nMichael Kelbaugh~nNOA Debug Staff~n~n~3Assistant~6~nAzusa Tajima~n~n~4Directors~6~nHitoshi Yamagami~nYoshiyuki Kato~n~n~2Producers~6~nGenyo Takeda~nJunichi Yakahi~n~n~4Created By~nNintendo Co., Ltd.n~n~7~n~n~n~n~n~n~n~n~n~n~n~n~n~n~n~n~n~z")
+Text($00324430, "~n~n~n~n~n~n~n~n~n~n~n~n~n~n~n~n~1Dr. Mario Creative Staff~n~n~2Original Concept~6~nGunpei Yokoi~nTakahiro Harada~n~n~3Game Design~6~nHitoshi Yamagami~nKazushi Maeda~nYohei Fujigawa~n~n~4Programmers~6~nYasunori Kobayashi~nKazunori Hasegawa~n~n~2CG Designers~6~nYohei Fujigawa~nAkio Saito~nShinichi Takehiro~nTakehiro Ishikawa~nNozomi Kawai~nTomoki Oda~nToshiyuki Matsuda~nYukio Tanaka~nToyohide Ando~nTaichi Sasaki~nTakatoshi Anbe~nTomoaki Yamaguchi~n~n~3Art Director~6~nToyo Ashida~n~n~4Original Character Art~6~nYukio Ebisawa~nToyo Ashida~nHiroshi Takeuchi~nAyako Kurada~nHatsue Koizumi~nMariko Oka~n~n~2Character Animation~6~nKiyomi Ishiwata~nMami Yamaguchi~nHatsue Koizumi~nHideki Nagamachi~nShingo Kuragari~nMasahito Onoda~n~n~3Original Background Art~6~nToyo Ashida~n~n~4Background Colorist~6~nYuki Enatsu~n~n~2Package Art~6~nSachiko Nakamichi~n~n~3Original Sound Composer~6~nHirokazu Tanaka~n~n~4Sound Composer~6~nManabu Fujiki~n~n~2Music Composer~6~nManabu Fujiki~nSeiichi Tokunaga~n~n~3Debug Staff~6~nSuper Mario Club~nHifumi Miyazaki~nKayo Komaki~nFumiaki Shimada~nSatomi Hasuike~nTomoharu Hizakae~nKanako Fujisawa~nToshiaki Suzuki~nSatoru Uno~nKoichi Torii~nTomoko Yuasa~nYasunori Shibayama~nTakahiro Nakamura~nKotaro Haneda~nShohei Zenjo~nYoshihito Tsuji~nTakahiro Onishi~nTatsuro Sawada~nTakehiko Asaka~nTomokazu Suganuma~nTakuya Inoue~n~n~4Special Thanks~6~nTakehiro Izushi~nMasao Yamamoto~nMinoru Arakawa~nManabu "Mike" Fukuda~nSakae Yamazaki~nFontworks Japan~nNintendo R&D 1~nNewcom Co., Ltd.~n~n~2Voice Acting~6~nCharles Martinet~n~n~3Localization~6~nTim O'Leary~nBill Trinen~n~n~4Localization Management~6~nJeff Miller~nLeslie Swan~n~n~2Testing and Debug~6~nMichael Kelbaugh~nNOA Debug Staff~n~n~3Assistant~6~nAzusa Tajima~n~n~4Directors~6~nHitoshi Yamagami~nYoshiyuki Kato~n~n~2Producers~6~nGenyo Takeda~nJunichi Yakahi~n~n~4Created By~nNintendo Co., Ltd.~n~n~7~n~n~n~n~n~n~n~n~n~n~n~n~n~n~n~n~n~z")
 
 //STORY
 Text($00324E7C, "~h~0Aa...aa..aachoo!~nSuddenly, flu~nseason has st~z")
@@ -208,6 +208,48 @@ Text("~h~0Wario sees him and~nsays: ~6Hold it, you!~nThose belong to me.~z")
 
 Text($00325360, "~h~0Dr. Mario is back.~nWhat a shock! The~nMegavitamins are gone.~z")
 Text("~h~0Dr. Mario spots Wario~nand says: ~4Thief! You~nwon't get away!~z")
+
+Text($00325440, "~h~0Dr. Mario stops Wario~nbut finds he doesn'~z")
+
+Text($00325474, "~h~0Hey! There's the~nthief! He's getting~naway! After him!~z")
+
+Text($003254D0, "~h~0~6Wario~0: ~6It's not me.~nI didn't steal th~z")
+
+Text($00325504, "~h~0~6There! That's him!~nHe's the one. Stop!~nThose are Wario's!~z")
+
+Text($00325568, "~h~0~2Mad Scienstein~0:~n~2Here's the plan,~npss~z")
+
+Text($0032559C, "~h~0Dr. Mario and Wario~nchase after the~nMegavitamins.~z")
+
+Text($003255E8, "~h~0~2Mad Scienstein~0:~n~2So, the rest is~nup~z")
+
+Text($0032561C, "~h~0~2Spearhead~0:~n~2I won't let you...~z")
+Text("~h~0POW! Wario runs~nover him and~nkeep on going.~z")
+Text("Spearhead~0: ~2I...~nI won't let you~ntake one more step!~z")
+
+Text($0032571C, "~h~0Mad Scienstein~nscurries away.~z")
+
+Text($00325744, "~h~0Wario and Dr. Mario~nchase after the~nMegavitamins.~z")
+
+Text($00325790, "~h~0There's a tree and~nWario can't stop~in time! BAM!~z")
+
+Text($003257D0, "Spearhead~0: ~2Get ready.~nYou're ~z")
+
+Text($00325824, "~h~0The chase continues~ninto the deep, dark~nforest.~z")
+
+Text($0032586C, "~h~0This is so creepy.~nI've got a bad~nfeeling about this.~z")
+
+Text($003258B4, "~h~0~6Wario~0:~n~6Yikes!~z")
+
+Text($003258DC, "~h~0Something slips~ndown from up above.~z")
+
+Text($00325914, "~h~0~2Webber~0: ~2Simmer down.~nYou're about to become~na ni~z")
+
+Text($00325984, "~h~0Wario won't stop~nuntil he gets those~nMegavitamin~z")
+
+Text($003259C0, "~h~0Mad Scienstein stops~nsuddenly! Wario slides~nright by and...~z")
+
+Text($00325A14, "Webber~0:~n~2Oh my - you don't~nlook very tasty.~z")
 
 //OTHER
 Text($00326F27, "Password~n~z")
