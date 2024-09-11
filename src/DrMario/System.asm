@@ -3,6 +3,9 @@ Text($00061C30, "Controller 1 not~nplugged in description.~z")
 
 Text($00061CBC, "Unknown description.~z")
 
+//SAVING SCREEN
+Text($00061DE8, "Saving...~nDo not touch the Memory~nCard or the POWER button.~z")
+
 //MAIN MENU
 Text($0006277C, "This is the~none-player mode.~z")
 Text("This is the~ntwo-player mode.~z")
@@ -84,7 +87,7 @@ Text($00063D9C, "The music will~nplay in stereo.~z")
 
 Text($00063DC4, "The music will~nplay in mono.~z")
 
-//SAVING SCREEN
+//NAME SAVING SCREEN
 Text($00063DEC, "Saving...~nDo not touch the Memory~nCard or the POWER button.~z")
 
 Text($00063E38, "Deleting...~nDo not touch the Memory~nCard or the POWER button.~z")
@@ -249,7 +252,115 @@ Text($00325984, "~h~0Wario won't stop~nuntil he gets those~nMegavitamin~z")
 
 Text($003259C0, "~h~0Mad Scienstein stops~nsuddenly! Wario slides~nright by and...~z")
 
-Text($00325A14, "Webber~0:~n~2Oh my - you don't~nlook very tasty.~z")
+Text($00325A14, "~h~0~2Webber~0:~n~2Oh my - you don't~nlook very tasty.~z")
+
+Text($00325A74, "~h~0Silky's out for a nice~nleisurely crawl...~nLook out behind you!~z")
+
+Text($00325ABC, "~h~0Go, Silky, go!~nYou'd better get~nout of the way.~z")
+
+Text($00325B00, "~h~0Whew, what a shock.~nGlad to see that~nyou're safe.~z")
+
+Text($00325B3C, "~h~0~2Silky~0: ~2Yikes!~z")
+
+Text($00325B8C, "~h~0Look! It's Appleby.~nHe looks so happy with~nhis big, shiny appl~z")
+
+Text($00325BD4, "~h~0Look out! Here~nthey come! What~na racket!~z")
+
+Text($00325C18, "~h~0~2Appleby~0: ~2Hey!~nGive me back~nmy apple!~z")
+
+Text($00325C7C, "~h~0A beautiful blue~nsea lies at ~z")
+
+Text($00325CA4, "~h~0A coconut~nfalls from~na tree ~z")
+
+Text($00325CCC, "~h~0Wario gets jabbed~nand swells up~nlike a big balloon!~z")
+
+Text($00325D10, "~h~0~2Jellybob~0:~n~2Shwoooo!~z")
+
+Text($00325D60, "~h~0A beautiful blue~nsea lies at ~z")
+
+Text($00325D88, "~h~0Watch out!~nThere goes~na coconut!~z")
+
+Text($00325DB4, "~h~0Uh-oh! Something's~coming up out of~nthe sea!~z")
+
+Text($00325DF0, "~h~0~2Octo~0: ~2Prepare~nto be punished!~z")
+
+Text($00325E4C, "~h~0There's a path among~nthe clouds. There~ngoes Mad Scienstein.~z")
+
+Text($00325594, "~h~0Wario comes~nfloating by, and~nHelio pops him!~z")
+
+Text($00325ED8, "~h~0~6Wario~0: ~6Why's this~nhappening to me!?~z")
+
+Text($00325F0C, "~h~0~2Helio~0: ~2Ha-ha!~nAnd you're next!~z")
+
+Text($00325F7C, "~h~0Zzz...zzz...zzz.~nIt's nap time in~nthe mountains.~z")
+
+Text($00325FB8, "~h~0Look out below!~z")
+
+Text($00325FE0, "~h~0~2Lump~0:~n~2Ribbit.~z")
+
+Text($0032502C, "~h~0Clank, clank...~nWhat an odd noise...~nThis can't be good.~z")
+
+Text($00326074, "~h~0~2Hammer-Bot~0:~n~2Intruders detected!~nEliminate. Eliminate.~z")
+
+Text($003260BC, "~h~0They all want the~nMegavitamins. Will~nanyone survive?~z")
+
+Text($00326108, "???~z")
+
+Text($00326184, "~h~0Mad Scienstein is so~nstubborn. He won't~nreturn the vitamins!~z")
+
+Text($003261E4, "???~z")
+
+Text($00326234, "~h~0Deep into the castle~nthey go. Oh my!~nIt's Rudy!~z")
+Text("~h~0~5Rudy~0: ~5Ha-ha-ha...~nThe Megavitamins~nare mine!~z")
+
+Text($003262D8, "~h~0Is that the end~nof our story? Wait,~nhere comes Wario.~z")
+
+Text($00326320, "~h~0Gulp, gulp. Wario~nhas eaten the~nMegavitamins!~z")
+
+Text($00326368, "~h~0~6Vampire Wario~0:~n~6Bwaa haa haa.~z")
+
+Text($003263C4, "~h~0Is that the end~nof our story? Wait,~nhere comes Dr. Mario.~z")
+
+Text($0032640C, "~h~0Wario is escaping~nwith the Megavitamins.~nWhoa, he's tripped!~z")
+
+Text($00326460, "~h~0Oh no! Dr. Mario's~nswallowed them all~nand he's changing!~z")
+
+Text($003264C8, "~h~0Rudy's been defeated~nand he looks terrible.~nAha! He's got a cold.~z")
+
+Text($00326528, "~h~0If it's a cold, I'll~ncure him. After all,~nI'm Dr. Mario.~z")
+
+Text($00326574, "~h~0Rudy's all better.~nNow if he'll just~nstop stealing!~z")
+
+Text($003265D8, "~h~0~6Wario~0: ~6Darn! I~nwon't forget this!~z")
+
+Text($00326610, "~h~0~2Mad Scienstein~0:~n~2Master Rudy,~nbe strong!~z")
+
+Text($0032664C, "~h~0~5Rudy~0:~n~5Aaahh, owww...~z")
+Text("~h~0~2Mad Scienstein~0:~n~2Oh, how~nheartrending...~z")
+
+Text($003266B4, "~h~0If it's a cold, I'll~ncure him. After all,~nI'm Dr. Mario.~z")
+
+Text($00326700, "~h~0Rudy's all better.~nNow if he'll just~nstop stealing!~z")
+
+Text($0032677C, "~h~0It's time to go home.~nHome, s~z")
+
+Text($003267A4, "~h~0Dr. Mario used~nthe Megavitamins to~ncure everyone.~z")
+
+Text($003267F8, "~h~0And they all~nlived ~w3~h~z")
+
+Text($00326838, "~h~0Wario's gotten rid~nof all obstacles.~nLook at him grin.~z")
+
+Text($00326880, "~h~0~6Wario~0: ~6Now the~nMegavitamins~nbelong to me!~z")
+
+Text($003268D0, "~h~0But nothing's that~neasy. Mad Scienstein~ngrabs them again.~z")
+
+Text($0032693C, "~h~0And the chase goes~non and on. Will~nit ever end?~z")
+
+Text($00326980, "~h~0The end.~w3~h~z")
+
+Text($003269B0, "~h~0~5???~0: ~5That's the~nstory, is it...~z")
+
+Text($003267F8, "~h~0~5But they'll never make~nit this far. Hammer-~nBot will sto~z")
 
 //OTHER
 Text($00326F27, "Password~n~z")
