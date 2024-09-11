@@ -1,3 +1,8 @@
+//???
+Text($00061C30, "Controller 1 not~nplugged in description.~z")
+
+Text($00061CBC, "Unknown description.~z")
+
 //MAIN MENU
 Text($0006277C, "This is the~none-player mode.~z")
 Text("This is the~ntwo-player mode.~z")
