@@ -225,7 +225,7 @@ Text($003255E8, "~h~0~2Mad Scienstein~0:~n~2So, the rest is~nup~z")
 
 Text($0032561C, "~h~0~2Spearhead~0:~n~2I won't let you...~z")
 Text("~h~0POW! Wario runs~nover him and~nkeep on going.~z")
-Text("Spearhead~0: ~2I...~nI won't let you~ntake one more step!~z")
+Text("~h~0~2Spearhead~0: ~2I...~nI won't let you~ntake one more step!~z")
 
 Text($0032571C, "~h~0Mad Scienstein~nscurries away.~z")
 
