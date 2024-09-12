@@ -234,9 +234,9 @@ Text($0032571C, "~h~0Mad Scienstein~nscurries away.~z")
 
 Text($00325744, "~h~0Wario and Dr. Mario~nchase after the~nMegavitamins.~z")
 
-Text($00325790, "~h~0There's a tree and~nWario can't stop~in time! BAM!~z")
+Text($00325790, "~h~0There's a tree and~nWario can't stop~nin time! BAM!~z")
 
-Text($003257D0, "Spearhead~0: ~2Get ready.~nYou're ~z")
+Text($003257D0, "~h~0~2Spearhead~0: ~2Get ready.~nY~z")
 
 Text($00325824, "~h~0The chase continues~ninto the deep, dark~nforest.~z")
 
@@ -298,7 +298,7 @@ Text($00325FB8, "~h~0Look out below!~z")
 
 Text($00325FE0, "~h~0~2Lump~0:~n~2Ribbit.~z")
 
-Text($0032502C, "~h~0Clank, clank...~nWhat an odd noise...~nThis can't be good.~z")
+Text($0032602C, "~h~0Clank, clank...~nWhat an odd noise...~nThis can't be good.~z")
 
 Text($00326074, "~h~0~2Hammer-Bot~0:~n~2Intruders detected!~nEliminate. Eliminate.~z")
 
@@ -360,7 +360,7 @@ Text($00326980, "~h~0The end.~w3~h~z")
 
 Text($003269B0, "~h~0~5???~0: ~5That's the~nstory, is it...~z")
 
-Text($003267F8, "~h~0~5But they'll never make~nit this far. Hammer-~nBot will sto~z")
+Text($003269F4, "~h~0~5But they'll never make~nit this far. Hammer-~nBot will sto~z")
 
 //OTHER
 Text($00326F27, "Password~n~z")
