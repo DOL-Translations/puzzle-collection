@@ -286,7 +286,7 @@ Text($00325DF0, "~h~0~2Octo~0: ~2Prepare~nto be punished!~z")
 
 Text($00325E4C, "~h~0There's a path among~nthe clouds. There~ngoes Mad Scienstein.~z")
 
-Text($00325594, "~h~0Wario comes~nfloating by, and~nHelio pops him!~z")
+Text($00325E94, "~h~0Wario comes~nfloating by, and~nHelio pops him!~z")
 
 Text($00325ED8, "~h~0~6Wario~0: ~6Why's this~nhappening to me!?~z")
 
