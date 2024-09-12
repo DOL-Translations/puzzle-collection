@@ -1,5 +1,5 @@
 //NAMES #1
-Text($00047B64, "MARI")
+Text($00047AB0, "MARI")
 Text($00047ABC, "YOSH")
 Text($00047AC8, "PEAC")
 Text($00047AD4, "BOWS")
