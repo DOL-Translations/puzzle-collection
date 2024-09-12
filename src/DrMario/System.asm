@@ -280,7 +280,7 @@ Text($00325D60, "~h~0A beautiful blue~nsea lies at ~z")
 
 Text($00325D88, "~h~0Watch out!~nThere goes~na coconut!~z")
 
-Text($00325DB4, "~h~0Uh-oh! Something's~coming up out of~nthe sea!~z")
+Text($00325DB4, "~h~0Uh-oh! Something's~ncoming up out of~nthe sea!~z")
 
 Text($00325DF0, "~h~0~2Octo~0: ~2Prepare~nto be punished!~z")
 
