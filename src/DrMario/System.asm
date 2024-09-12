@@ -183,7 +183,7 @@ Text($00324F00, "~h~0Aa...aa..aachoo!~nSuddenly, flu~nseason has st~z")
 
 Text($00324F38, "~h~0And so, Dr. Mario~nrushes about, curing~npat~z")
 
-Text($00324F6C, "~h~0~6Wario~0: ~6It's a me,~nWario! I'm so bored.~z")
+Text($00324F6C, "~h~0~6Wario~0: ~6It's-a me,~nWario! I'm so bored.~z")
 
 Text($00324FD4, "~h~0~2Octo~0: ~2Ohhh...~nMy achin' head.~nHelp me out, Doc.~z")
 
