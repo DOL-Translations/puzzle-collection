@@ -5,7 +5,7 @@ Text($00047AC8, "PEAC")
 Text($00047AD4, "BOWS")
 
 //SAVING SCREEN
-Text($00047B64, "Do not touch the Memory Card or the POWER button.")
+Text($00047B64, "Do not touch the Memory Card<n__or the POWER button.")
 
 //DEMO PLAY
 Text($00048200, "DEMO PLAY")
@@ -44,9 +44,84 @@ Text($00049F1C, "GST2")
 Text($00049F28, "GST3")
 Text($00049F34, "GST4")
 
+//NAME LETTERS
+Text($0004A11C, "A")
+Text($0004A11E, "B")
+Text($0004A120, "C")
+Text($0004A122, "D")
+Text($0004A124, "E")
+Text($0004A126, "a")
+Text($0004A128, "b")
+Text($0004A12A, "c")
+Text($0004A12C, "d")
+Text($0004A12E, "e")
+Text($0004A130, "0")
+Text($0004A132, "1")
+Text($0004A134, "2")
+Text($0004A136, "3")
+Text($0004A138, "4")
+
+Text($0004A13E, "F")
+Text($0004A140, "G")
+Text($0004A142, "H")
+Text($0004A144, "I")
+Text($0004A146, "J")
+Text($0004A148, "f")
+Text($0004A14A, "g")
+Text($0004A14C, "h")
+Text($0004A14E, "i")
+Text($0004A150, "j")
+Text($0004A152, "5")
+Text($0004A154, "6")
+Text($0004A156, "7")
+Text($0004A158, "8")
+Text($0004A15A, "9")
+
+Text($0004A160, "K")
+Text($0004A162, "L")
+Text($0004A164, "M")
+Text($0004A166, "N")
+Text($0004A168, "O")
+Text($0004A16A, "k")
+Text($0004A16C, "l")
+Text($0004A16E, "m")
+Text($0004A170, "n")
+Text($0004A172, "o")
+Text($0004A174, "?")
+Text($0004A176, "×")
+Text($0004A178, "/")
+Text($0004A17A, "•")
+Text($0004A17C, ",")
+
+Text($0004A182, "P")
+Text($0004A184, "Q")
+Text($0004A186, "R")
+Text($0004A188, "S")
+Text($0004A18A, "T")
+Text($0004A18C, "p")
+Text($0004A18E, "q")
+Text($0004A190, "r")
+Text($0004A192, "s")
+Text($0004A194, "t")
+Text($0004A196, ";")
+
+Text($0004A1A4, "U")
+Text($0004A1A6, "V")
+Text($0004A1A8, "W")
+Text($0004A1AA, "X")
+Text($0004A1AC, "Y")
+Text($0004A1AE, "u")
+Text($0004A1B0, "v")
+Text($0004A1B2, "w")
+Text($0004A1B4, "x")
+Text($0004A1B6, "y")
+
+Text($0004A1C6, "Z")
+Text($0004A1D0, "z")
+
 //NAME SCREEN #2
-Text($0004A230, "Is")
-Text($0004A234, "correct?")
+Text($0004A230, "")
+Text($0004A234, "Register name?")
 
 //OPTIONS
 Text($001B7A40, "View Records")
@@ -99,7 +174,6 @@ Text($001B7C48, "Clear")
 
 Text($001B7C50, "Next Stage")
 
-//GAME OVER
 Text($001B7C6C, "Continue?")
 
 Text($001B7C88, "Yes")
@@ -233,7 +307,7 @@ Text($001B88C4, "Is that OK?")
 Text($001B88D8, "Select a record to view.")
 
 //HOW TO PLAY (VS. RULES)
-Text($001B8E30, "Learn the rules\nof playing a\nbattle match.")
+Text($001B8E30, "Learn the rules<n__of playing a<n__battle match.")
 
 //CHARACTERS
 Text($001BB040, "<c0_Mario")
@@ -267,4 +341,4 @@ Text($001BB200, "<cE_Fishing Boos")
 Text($001BB214, "<cH_Hammer Bros.")
 
 //STORY
-Text($001BB2B8, "Tomorrow is Peach's\nbirthday.")
+Text($001BB2B8, "Tomorrow is Peach's<n__birthday.")
