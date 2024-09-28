@@ -1,2 +1,2 @@
-ReplaceAsset($506C4AD4, "fs/opening.bnr", 6496)
-ReplaceAsset($00087D50, "fs/save_banner", 3071)
+ReplaceAsset($01FC4CC8, "fs/opening.bnr", 6496)
+ReplaceAsset($00085F50, "fs/save_banner", 3581)
