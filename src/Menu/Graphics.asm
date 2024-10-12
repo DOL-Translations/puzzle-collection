@@ -14,3 +14,8 @@ ReplaceAsset($00118792, "fs/textbox/7.bin", 11040)
 ReplaceAsset($0011B760, "fs/textbox/pal.bin", 32)
 ReplaceAsset($0011BACA, "fs/textbox/8.bin", 7920)
 ReplaceAsset($0011DD00, "fs/textbox/pal.bin", 32)
+
+ReplaceAsset($00057EE0, "fs/buttons/GBAEnter.bin", 37120)
+ReplaceAsset($000796E0, "fs/buttons/PuzzleLeague.bin", 37120)
+ReplaceAsset($000827EC, "fs/buttons/YCookie.bin", 37120)
+ReplaceAsset($0008BDE0, "fs/buttons/GBABack.bin", 37120)
