@@ -5,7 +5,7 @@ Text($00047AC8, "PEAC")
 Text($00047AD4, "BOWS")
 
 //SAVING SCREEN
-Text($00047B64, "Do not touch the Memory Card<n__or the POWER button.")
+Text($00047B64, "Do not touch the Memory Card or POWER.")
 
 //DEMO PLAY
 Text($00048200, "DEMO PLAY")
@@ -307,7 +307,7 @@ Text($001B88C4, "Is that OK?")
 Text($001B88D8, "Select a record to view.")
 
 //HOW TO PLAY (VS. RULES)
-Text($001B8E30, "Learn the rules<n__of playing a<n__battle match.")
+//Text($001B8E30, "Learn the rules<n__of playing a<n__battle match.")
 
 //CHARACTERS
 Text($001BB040, "<c0_Mario")
@@ -341,4 +341,4 @@ Text($001BB200, "<cE_Fishing Boos")
 Text($001BB214, "<cH_Hammer Bros.")
 
 //STORY
-Text($001BB2B8, "Tomorrow is Peach's<n__birthday.")
+//Text($001BB2B8, "Tomorrow is Peach's<n__birthday.")

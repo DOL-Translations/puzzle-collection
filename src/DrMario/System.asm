@@ -381,3 +381,7 @@ Text("~h~4Congratulations! You~nfinished HARD~nwithout losing.~nGreat job! Now l
 Text($00327300, "~h~2~n~n~n~nCongratulations!~nNext time try to~nfinish SUPER HARD~nwithout losing.~n~w2~z")
 
 Text($00327374, "~h~2~n~n~nCongratulations! You~nfinished SUPER HARD~nwithout losing.~nAmazing! You are truly~nA Dr. Mario expert!~n~w2~z")
+
+//SAVE DATA TEXT
+Text($002F2D40, "Nintendo Puzzle Collection      Save Data                       ")
+Text($00347EBC, "NintendoPuzzleCollection")

@@ -31,6 +31,7 @@ py extract.py "../src/DrMario/fs/dr_mario.szp" "../input/Nintendo Puzzle Collect
 ::note: panepon.szp should be extracted from April's translation as a base
 py extract.py "../src/YCookie/fs/ycookie.szp" "../input/Nintendo Puzzle Collection [J].iso" 0x699BA58 480778
 
+py decompress.py ../src/Menu/fs/menu.szp ../src/Menu/fs/menu.rel
 py decompress.py ../src/Menu/fs/menu_relsamp.szp ../src/Menu/fs/menu_relsamp.rel
 py decompress.py ../src/DrMario/fs/dr_mario.szp ../src/DrMario/fs/dr_mario.rel
 py decompress.py ../src/PuzzleLeague/fs/panepon.szp ../src/PuzzleLeague/fs/panepon.rel
@@ -41,6 +42,9 @@ bass\\win\\bass.exe ..\\src\\DrMario\\Main.asm
 bass\\win\\bass.exe ..\\src\\PuzzleLeague\\Main.asm
 bass\\win\\bass.exe ..\\src\\YCookie\\Main.asm
  
+szp.exe ../src/Menu/fs/menu-eng.rel
+ren .szp "menu-eng.szp"
+move menu-eng.szp "../src/Menu/fs/"
 szp.exe ../src/Menu/fs/menu_relsamp-eng.rel
 ren .szp "menu_relsamp-eng.szp"
 move menu_relsamp-eng.szp "../src/Menu/fs/"
@@ -49,7 +53,7 @@ ren .szp "dr_mario-eng.szp"
 move dr_mario-eng.szp "../src/DrMario/fs/"
 szp.exe ../src/PuzzleLeague/fs/panepon-eng.rel
 ren .szp "panepon-eng.szp"
-move ycookie-eng.szp "../src/PuzzleLeague/fs/"
+move panepon-eng.szp "../src/PuzzleLeague/fs/"
 szp.exe ../src/YCookie/fs/ycookie-eng.rel
 ren .szp "ycookie-eng.szp"
 move ycookie-eng.szp "../src/YCookie/fs/"
