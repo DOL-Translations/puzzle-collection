@@ -1,9 +1,8 @@
 // GameCube "Nintendo Puzzle Collection" Japanese To English Translation
 
 endian msb // GameCube PPC requires Big-Endian Encoding (Most Significant Bit)
-
-output "../../output/Nintendo Puzzle Collection [U].iso", create
-origin $000000; insert "../../input/Nintendo Puzzle Collection [J].iso" // Include Japanese Puzzle Collection ISO
+output "../output/Nintendo Puzzle Collection [U].iso", create
+origin $000000; insert "../input/Nintendo Puzzle Collection [J].iso" // Include Japanese Puzzle Collection ISO
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
@@ -99,11 +98,17 @@ macro ReplaceAsset(ORIGIN, FILE, SIZE) {
 }
 
 //Region
-origin $3; db $45 //E
-origin $45B; db $01
+//Uncomment BOTH lines to change region to NTSC-U.
+//Doing so will garble the untranslated Japanese characters.
+//origin $3; db $45 //E
+//origin $45B; db $01
 
 include "Banner.asm"
 include "Control.asm"
 include "Seg.asm"
 include "System.asm"
-//include "Relocatable.asm" //temporarily disabled. will have to manually add .rels with pyisotools
+
+include "Menu/Main.asm"
+include "DrMario/Main.asm"
+//include "PuzzleLeague/Main.asm"
+include "YCookie/Main.asm"
