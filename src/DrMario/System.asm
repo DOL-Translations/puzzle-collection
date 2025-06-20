@@ -1,5 +1,5 @@
 //UNUSED
-//Text($00061C30, "There is no controller~nconnected. Please turn OFF~nthe Nintendo GameCube and insert~na controller in port 1.~z")
+//Text($00061C30, "There is no controller~nconnected. Please turn the~nPOWER off and insert~na controller in port 1.~z")
 
 //Text($00061CBC, "The backup file has been deleted.~nPress the A button to clear the data.~z")
 
