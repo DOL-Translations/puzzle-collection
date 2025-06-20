@@ -75,11 +75,11 @@ Text($00063BDC, "Delete all saved~ngame data at once.~w2~hDo you really~nwant to
 
 Text($00063C40, "All of the~nsaved game data~nhas~z")
 
-Text($00063C64, "Not enough for~n2 players description.~z")
+Text($00063C64, "Please turn the POWER off~nand insert more controllers.~z")
 
-Text($00063C98, "Not enough for~n3 players description.~z")
+Text($00063C98, "Please turn the POWER off~nand insert more controllers.~z")
 
-Text($00063CD0, "Not enough for~n4 players description.~z")
+Text($00063CD0, "Please turn the POWER off~nand insert more controllers.~z")
 
 Text($00063D04, "This is where you~ncan set up other~ngame ~z")
 Text("You can turn the~non-screen score~ndisplay ON or OFF.~z")
