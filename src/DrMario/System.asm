@@ -1,7 +1,7 @@
 //UNUSED
-//Text($00061C30, "The controller in port 1~nis not plugged in.~z")
+//Text($00061C30, "There is no controller~nconnected. Please turn OFF~nthe Nintendo GameCube and insert~na controller in port 1.~z")
 
-//Text($00061CBC, "Unknown description.~z")
+//Text($00061CBC, "The backup file has been deleted.~nPress the A button to clear the data.~z")
 
 //SAVING SCREEN
 //Text($00061DE8, "Saving...~nDo not touch the Memory~nCard or the POWER button.~z")
@@ -75,11 +75,11 @@
 
 //Text($00063C40, "All of the~nsaved game data~nhas~z")
 
-//Text($00063C64, "Please turn the POWER off~nand insert more controllers.~z")
+//Text($00063C64, "Please power off and insert~nmore controllers.~z")
 
-//Text($00063C98, "Please turn the POWER off~nand insert more controllers.~z")
+//Text($00063C98, "Please power off and insert~nmore controllers.~z")
 
-//Text($00063CD0, "Please turn the POWER off~nand insert more controllers.~z")
+//Text($00063CD0, "Please power off and insert~nmore controllers.~z")
 
 //Text($00063D04, "This is where you~ncan set up other~ngame ~z")
 //Text("You can turn the~non-screen score~ndisplay ON or OFF.~z")
