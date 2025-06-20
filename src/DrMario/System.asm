@@ -1,5 +1,5 @@
-//???
-Text($00061C30, "Controller 1 not~nplugged in description.~z")
+//UNUSED
+Text($00061C30, "The controller in port 1~nis not plugged in.~z")
 
 Text($00061CBC, "Unknown description.~z")
 
