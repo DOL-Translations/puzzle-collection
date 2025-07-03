@@ -1,3 +1,5 @@
+ReplaceAsset($0008B3F0, "fs/GBAController.bin", 68936)
+
 ReplaceAsset($01AB2A1E, "Menu/fs/textbox/1.bin", 12480)
 ReplaceAsset($01AB8D68, "Menu/fs/textbox/pal.bin", 32)
 ReplaceAsset($01ABBBD3, "Menu/fs/textbox/2.bin", 14720)
@@ -14,6 +16,9 @@ ReplaceAsset($01B32B1A, "Menu/fs/textbox/7.bin", 11040)
 ReplaceAsset($01B35AE8, "Menu/fs/textbox/pal.bin", 32)
 ReplaceAsset($01B35E52, "Menu/fs/textbox/8.bin", 7920)
 ReplaceAsset($01B38088, "Menu/fs/textbox/pal.bin", 32)
+
+ReplaceAsset($01987ACC, "Menu/fs/graphics/TitleScreenUnused.bin", 153600)
+ReplaceAsset($01AE7FE8, "Menu/fs/graphics/TitleScreen.bin", 153600)
 
 ReplaceAsset($01A56572, "Menu/fs/buttons/DrMario.bin", 37120)
 ReplaceAsset($01A5FB66, "Menu/fs/buttons/PuzzleLeague.bin", 37120)
