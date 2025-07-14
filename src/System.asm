@@ -2,5 +2,6 @@
 origin $213E8; db $38, $60, $00, $00
 origin $214B8; db $38, $00, $00, $00
 
+Text($00000020, "Nintendo Puzzle Collection")
 Text($00086DC0, "Nintendo Puzzle Collection      Save Data                       ")
 Text($000D9E84, "NintendoPuzzleCollection")

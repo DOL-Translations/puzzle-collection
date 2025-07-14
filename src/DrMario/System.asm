@@ -1,98 +1,96 @@
 //UNUSED
-//Text($00061C30, "There is no controller~nconnected. Please turn the~nPOWER off and insert~na controller in port 1.~z")
+Text($007611E0, "There is no controller~nconnected. Please turn the~nPOWER off and insert~na controller in port 1.~z")
 
-//Text($00061CBC, "The backup file has been deleted.~nPress the A button to clear the data.~z")
+Text($0076126C, "The backup file has been deleted.~nPress the A button to clear the data.~z")
 
 //SAVING SCREEN
 //Text($00061DE8, "Saving...~nDo not touch the Memory~nCard or the POWER button.~z")
 
-//Text($0014482C, "NintendoPuzzleCollection")
-
 //MAIN MENU
-//Text($0006277C, "This is the~none-player mode.~z")
-//Text("This is the~ntwo-player mode.~z")
+Text($00761CEC, "This is the~none-player mode.~z")
+Text("This is the~ntwo-player mode.~z")
 //Text("This is the~nmultiplayer mode~z")
 //Text("Various setups~nand options are~z")
 
-//Text($00062800, "The thrilling tale~nof Dr. Mario and~nthe Cold Caper.~w2~hForce your foe to~nretire by sending~nthem garbage~w2~hor destroy all~nof your own~nviruses to win.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
+//Text($00761D70, "The thrilling tale~nof Dr. Mario and~nthe Cold Caper.~w2~hForce your foe to~nretire by sending~nthem garbage~w2~hor destroy all~nof your own~nviruses to win.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
 
-//Text($00062918, "Continue playing~nuntil you fail~nto clear a stage.~w2~hDestroy all the~nviruses to clear~na stage.~w2~hThe higher the~nlevel, the more~nviruses you have~nto destroy.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
+//Text($00761E88, "Continue playing~nuntil you fail~nto clear a stage.~w2~hDestroy all the~nviruses to clear~na stage.~w2~hThe higher the~nlevel, the more~nviruses you have~nto destroy.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
 
-//Text($00062A44, "This is your~nchance to play~nagainst the~ncomputer.~w2~hPlay against~nany character~nyou'd like.~w2~hForce your foe to~nretire by sending~nthem garbage~w2~hor destroy all~nof your own~nviruses to win.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
+//Text($00761FB4, "This is your~nchance to play~nagainst the~ncomputer.~w2~hPlay against~nany character~nyou'd like.~w2~hForce your foe to~nretire by sending~nthem garbage~w2~hor destroy all~nof your own~nviruses to win.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
 //Text("Clear levels by~ndestroying the~nflashing viruses.~w2~hPlay against~nany character~nyou'd like.~w2~hForce your foe to~nretire by sending~nthem garbage~w2~hor destroy all~nof your own~nviruses to win.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
 
-//Text($00062CB0, "Viruses multiply~nrapidly in this~nmode.~w2~hCompleting combos~nwill slow down~nthe speed of the~nvirus growth.~w2~hDestroy the~nviruses to keep~nthe bottle clear.~w2~hPress the L Button~nto speed up the~nmultiplication~nof the viruses.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
+//Text($00762220, "Viruses multiply~nrapidly in this~nmode.~w2~hCompleting combos~nwill slow down~nthe speed of the~nvirus growth.~w2~hDestroy the~nviruses to keep~nthe bottle clear.~w2~hPress the L Button~nto speed up the~nmultiplication~nof the viruses.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
 
-//Text($00062E54, "Try to get the~nhighest score~npossible in a set~namount of time.~w2~hAim for a high~nscore by~ndestroying many~nviruses at once.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
+//Text($007623C4, "Try to get the~nhighest score~npossible in a set~namount of time.~w2~hAim for a high~nscore by~ndestroying many~nviruses at once.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
 
-//Text($00062F50, "Please input~nyour name.~w2~hPlease select NEW~nor GUEST if this~nis your first~ntime playing.~w2~h~z")
-//Text("Please input~nyour name.~z")
+Text($007624C0, "Please input~nyour name.~w2~hPlease select NEW~nor GUEST if this~nis your first~ntime playing.~w2~h~z")
+Text("Please input~nyour name.~z")
 //Text("Compete against~nanother player.~w2~hForce your foe to~nretire by sending~nthem garbage~w2~hor destroy all~nof your own~nviruses to win.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
 
-//Text($000630FC, "Clear levels by~ndestroying the~nflashing viruses.~w2~hClear combos to~nsend garbage to~nyour opponent.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
+//Text($0076266C, "Clear levels by~ndestroying the~nflashing viruses.~w2~hClear combos to~nsend garbage to~nyour opponent.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
 //Text("Try to get the~nhighest score~npossible in a set~namount of time.~w2~hAim for a high~nscore by~ndestroying many~nviruses at once.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
 
-//Text($00063304, "How many players?~z")
+Text($00762874, "How many players?~z")
 
-//Text($0006331C, "A four-player~nfree-for-all.~w2~hForce your foes to~nretire by sending~nthem garbage~w2~hor destroy all~nof your own~nviruses to win.~w2~hThe color of the~ncombos you clear~ndetermines where~nyour garbage goes.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
+//Text($0076288C, "A four-player~nfree-for-all.~w2~hForce your foes to~nretire by sending~nthem garbage~w2~hor destroy all~nof your own~nviruses to win.~w2~hThe color of the~ncombos you clear~ndetermines where~nyour garbage goes.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
 
-//Text($00063484, "A two-on-two~nbattle mode.~w2~hForce your foes to~nretire by sending~nthem garbage~w2~hor destroy all~nof your own~nviruses to win.~w2~hThe color of the~ncombos you clear~ndetermines where~nyour garbage goes.~w2~hGarbage sent to~nyour partner is~nplaced in your~w2~hteam bank. This~nis then added~nto later garbage~w2~hthat either you or~nyour teammate sends~nto your foes.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~hcapsule will land.~nPress the button~nagain to turn the~neffect OFF.~w2~h~z")
+Text($007629F4, "A two-on-two~nbattle mode.~w2~hForce your foes to~nretire by sending~nthem garbage~w2~hor destroy all~nof your own~nviruses to win.~w2~hThe color of the~ncombos you clear~ndetermines where~nyour garbage goes.~w2~hGarbage sent to~nyour partner is~nplaced in your~w2~hteam bank. This~nis then added~nto later garbage~w2~hthat either you or~nyour teammate sends~nto your foes.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~hcapsule will land.~nPress the button~nagain to turn the~neffect OFF.~w2~h~z")
 
-//Text($000636B8, "Clear levels by~ndestroying the~nflashing viruses.~w2~hYou can fill your~nrivals' screens~nwith garbage.~w2~hThe color of the~ncombos you clear~ndetermines where~nyour garbage goes.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
+//Text($00762C28, "Clear levels by~ndestroying the~nflashing viruses.~w2~hYou can fill your~nrivals' screens~nwith garbage.~w2~hThe color of the~ncombos you clear~ndetermines where~nyour garbage goes.~w2~hOne more thing!~nPress the X Button~nduring game play~nto see where the~w2~h~z")
 //Text("This is where~nyou view~ngame record~z")
 
-//Text($00063830, "This is where~nyou study rules~nand techniques.~z")
-//Text("This is where~nyou change or~ndelete your name.~z")
+Text($00762DA0, "This is where~nyou study rules~nand techniques.~z")
+Text("This is where~nyou change or~ndelete your name.~z")
 
-//Text($000638B4, "This is where you~nset the number of~ngames in~z")
+//Text($00762E24, "This is where you~nset the number of~ngames in~z")
 
-//Text($000638E8, "This is where you~nselect the~nsound settings.~w2~hYou can also~nlisten to game~nmusic and s~z")
+//Text($00762E58, "This is where you~nselect the~nsound settings.~w2~hYou can also~nlisten to game~nmusic and s~z")
 //Text("This is where~nyou can delete~nall saved d~z")
 
-//Text($00063978, "Which records do~nyou want to view~z")
+//Text($00762EE8, "Which records do~nyou want to view~z")
 
-//Text($000639A0, "Which mode~nrecords do you~nwant to vi~z")
+//Text($00762F10, "Which mode~nrecords do you~nwant to vi~z")
 
-//Text($000639CC, "These are the~nbutton control~nexpla~z")
+//Text($00762F3C, "These are the~nbutton control~nexpla~z")
 
-//Text($000639F4, "This is an~nexplanation of~nbasic game play.~z")
+Text($00762F64, "This is an~nexplanation of~nbasic game play.~z")
 
-//Text($00063A28, "These are~nexplanations of~nthe two-player~ngames.~z")
+Text($00762F98, "These are~nexplanations of~nthe two-player~ngames.~z")
 
-//Text($00063A60, "These are~nexplanations of~nthe four-player~ngames.~z")
+Text($00762FD0, "These are~nexplanations of~nthe four-player~ngames.~z")
 
-//Text($00063A98, "Let me give~nyou some advice.~z")
+Text($00763008, "Let me give~nyou some advice.~z")
 
-//Text($00063AC4, "What are you~ngoing to do to~z")
+//Text($00763034, "What are you~ngoing to do to~z")
 //Text("Delete that file~nname, and you~ndelete the game~ndata, too.~w2~hDo you really~nwant to delete that f~w2~h~z")
 //Text("The file name~nand game ~z")
 
-//Text($00063B70, "Select the number~nof games to p~z")
+//Text($007630E0, "Select the number~nof games to p~z")
 
-//Text($00063B94, "Select with the~n+ Control Pad~nand confirm with~nthe A Button.~z")
+Text($00763104, "Select with the~n+ Control Pad~nand confirm with~nthe A Button.~z")
 
-//Text($00063BDC, "Delete all saved~ngame data at once.~w2~hDo you really~nwant to delete~nall of the~nsaved g~w2~h~z")
+//Text($0076314C, "Delete all saved~ngame data at once.~w2~hDo you really~nwant to delete~nall of the~nsaved g~w2~h~z")
 
-//Text($00063C40, "All of the~nsaved game data~nhas~z")
+//Text($007631B0, "All of the~nsaved game data~nhas~z")
 
-//Text($00063C64, "Please power off and insert~nmore controllers.~z")
+Text($007631D4, "Please power off and insert~nmore controllers.~z")
 
-//Text($00063C98, "Please power off and insert~nmore controllers.~z")
+Text($00763208, "Please power off and insert~nmore controllers.~z")
 
-//Text($00063CD0, "Please power off and insert~nmore controllers.~z")
+Text($00763240, "Please power off and insert~nmore controllers.~z")
 
-//Text($00063D04, "This is where you~ncan set up other~ngame ~z")
+//Text($00763274, "This is where you~ncan set up other~ngame ~z")
 //Text("You can turn the~non-screen score~ndisplay ON or OFF.~z")
 //Text("Please choose a~nscore display~nop~z") 
 
-//Text($00063D9C, "The music will~nplay in stereo.~z")
+Text($0076330C, "The music will~nplay in stereo.~z")
 
-//Text($00063DC4, "The music will~nplay in mono.~z")
+Text($00763334, "The music will~nplay in mono.~z")
 
 //NAME SAVING SCREEN
-//Text($00063DEC, "Saving...~nDo not touch the Memory~nCard or the POWER button.~z")
+Text($0076335C, "Saving...~nDo not touch the Memory~nCard or the POWER button.~z")
 
-//Text($00063E38, "Deleting...~nDo not touch the Memory~nCard or the POWER button.~z")
+Text($007633A8, "Deleting...~nDo not touch the Memory~nCard or the POWER button.~z")
 
 //HOW TO PLAY (BASIC RULES)
 //Text($000650C8, "Hello, everyone!~nI'm Paragoom~w2~z")
@@ -383,5 +381,5 @@
 //Text($00327374, "~h~2~n~n~nCongratulations! You~nfinished SUPER HARD~nwithout losing.~nAmazing! You are truly~nA Dr. Mario expert!~n~w2~z")
 
 //SAVE DATA TEXT
-//Text($002F2D40, "Nintendo Puzzle Collection      Save Data                       ")
-//Text($00347EBC, "NintendoPuzzleCollection")
+Text($00DD5D68, "Nintendo Puzzle Collection      Save Data                       ")
+Text($00E2AEE4, "NintendoPuzzleCollection")
