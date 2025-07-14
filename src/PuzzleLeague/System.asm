@@ -67,7 +67,7 @@
 
 //HOW TO PLAY (4-PLAYER RULES)
 
-//VS. CPU
+//VS CPU
 
 //SAVE DATA TEXT
 Text($0256E6D8, "Nintendo Puzzle Collection      Save Data                       ")

@@ -6,8 +6,6 @@
 //SAVING SCREEN
 //Text($00061DE8, "Saving...~nDo not touch the Memory~nCard or the POWER button.~z")
 
-//Text($0014482C, "NintendoPuzzleCollection")
-
 //MAIN MENU
 //Text($0006277C, "This is the~none-player mode.~z")
 //Text("This is the~ntwo-player mode.~z")
