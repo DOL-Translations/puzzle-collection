@@ -120,20 +120,20 @@ Text($06800B34, "GST4")
 //Text($0004A1D0, "z")
 
 //NAME SCREEN #2
-Text($06800E30, "Register name?")
+//Text($06800E30, "Register name?")
 
 //OPTIONS
-Text($06965640, "View Records")
-Text("Delete Records")
-Text("Name Entry")
+//Text($06965640, "View Records")
+//Text("Delete Records")
+//Text("Name Entry")
 
-Text($06965678, "BGM Vol.")
-Text($0696568C, "SE Vol.")
-Text("BGM")
-Text("SE")
+//Text($06965678, "BGM Vol.")
+//Text($0696568C, "SE Vol.")
+//Text("BGM")
+//Text("SE")
 
-Text($069656B8, "Number of Games")
-Text("?????")
+//Text($069656B8, "Number of Games")
+//Text("?????")
 
 Text($0696E6E4, "?????")
 
