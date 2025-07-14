@@ -1,2 +1,2 @@
-Text($01B5E728, "Nintendo Puzzle Collection      Save Data                       ")
-Text($01B5EBB4, "NintendoPuzzleCollection")
+//Text($001443A0, "Nintendo Puzzle Collection      Save Data                       ")
+//Text($0014482C, "NintendoPuzzleCollection")

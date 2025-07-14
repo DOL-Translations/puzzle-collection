@@ -15,6 +15,9 @@ ReplaceAsset($01B35AE8, "Menu/fs/textbox/pal.bin", 32)
 ReplaceAsset($01B35E52, "Menu/fs/textbox/8.bin", 7920)
 ReplaceAsset($01B38088, "Menu/fs/textbox/pal.bin", 32)
 
+ReplaceAsset($01987ACC, "Menu/fs/graphics/TitleScreenUnused.bin", 153600)
+ReplaceAsset($01AE7FE8, "Menu/fs/graphics/TitleScreen.bin", 153600)
+
 ReplaceAsset($01A56572, "Menu/fs/buttons/DrMario.bin", 37120)
 ReplaceAsset($01A5FB66, "Menu/fs/buttons/PuzzleLeague.bin", 37120)
 ReplaceAsset($01A68C74, "Menu/fs/buttons/YCookie.bin", 37120)
