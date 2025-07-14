@@ -383,5 +383,5 @@
 //Text($00327374, "~h~2~n~n~nCongratulations! You~nfinished SUPER HARD~nwithout losing.~nAmazing! You are truly~nA Dr. Mario expert!~n~w2~z")
 
 //SAVE DATA TEXT
-//Text($002F2D40, "Nintendo Puzzle Collection      Save Data                       ")
-//Text($00347EBC, "NintendoPuzzleCollection")
+Text($00DD5D68, "Nintendo Puzzle Collection      Save Data                       ")
+Text($00E2AEE4, "NintendoPuzzleCollection")

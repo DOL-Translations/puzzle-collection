@@ -179,7 +179,7 @@
 //Text($001B7C88, "Yes")
 //Text($001B7C90, "No")
 
-//Text($001B7C9C, "Want to save?")
+//Text($001B7C9C, "Save data?")
 
 //Text($001B7CB0, "Yes")
 //Text($001B7CB8, "No")
