@@ -72,3 +72,4 @@
 //SAVE DATA TEXT
 Text($0256E6D8, "Nintendo Puzzle Collection      Save Data                       ")
 Text($027060BC, "NintendoPuzzleCollection")
+Text($02FC5F14, "Nintendo Puzzle Collection   Save Data ")
